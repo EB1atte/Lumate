@@ -4,6 +4,14 @@
 
 Lumate는 데스크톱 펫과 캐릭터 제작 도구를 함께 제공하는 Windows용 프로젝트임.
 
+<p align="center">
+  <img src="assets/friend-icon.png" width="180" alt="Lumate Friend 아이콘">
+  &nbsp;&nbsp;&nbsp;
+  <img src="assets/maker-icon.png" width="180" alt="Lumate Maker 아이콘">
+</p>
+
+<p align="center">Friend · 데스크톱 펫 &nbsp;&nbsp; / &nbsp;&nbsp; Maker · 캐릭터 제작</p>
+
 Lumate는 두 앱으로 구성됨.
 
 - `Friend`: 화면 위에서 움직이고 상호작용하는 실제 데스크톱 펫 앱
